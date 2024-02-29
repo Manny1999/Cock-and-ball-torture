@@ -124,3 +124,4 @@ with st.container():
             st.markdown(contact_form, unsafe_allow_html=True)
         with right_column:
             st.empty()
+st.subheader("Copyright©1994-2024 United Parcel Service of American, Inc. All rights reserved")
